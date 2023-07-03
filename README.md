@@ -1,8 +1,8 @@
 ## Olá eu sou Diogo Soares, estudante de programação
 <div>
   <a href="https://github.com/Diogo-SoaresDS">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Diogo-SoaresDS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-SoaresDS&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=Diogo-SoaresDS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-SoaresDS&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
