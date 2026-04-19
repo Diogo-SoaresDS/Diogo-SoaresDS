@@ -2,19 +2,19 @@
 
 ## **`Desenvolvedor FullStack`**
 
-<table>
-  <tr>
-    <td width="70%">
-      💻 Desenvolvedor focado em aplicações web e mobile <br>
-      🚀 Stack principal: JavaScript (React, Vue, Node.js)
-      <br><br>
-      Tenho experiência prática construindo projetos fullstack utilizando tecnologias modernas do ecossistema frontend e backend.
-    </td>
-    <td>
-      <img src="./img/retro-computer.gif" width="200"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./img/retro-computer.gif" width="200"/>
+</p>
+
+<p align="center">
+  💻 Desenvolvedor focado em aplicações web e mobile <br>
+  🚀 Stack principal: JavaScript (React, Vue, Node.js)
+</p>
+
+<p align="center">
+  Tenho experiência prática construindo projetos fullstack <br>
+  utilizando tecnologias modernas do ecossistema frontend e backend.
+</p>
 
 ## 🛠️ Tecnologias
 
