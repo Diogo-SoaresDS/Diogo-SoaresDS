@@ -12,20 +12,11 @@
 </p>
 
 <p align="center">
-  Tenho experiência prática construindo projetos fullstack <br>
-  utilizando tecnologias modernas do ecossistema frontend e backend.
+  <i>
+    Tenho experiência prática construindo projetos fullstack <br>
+    utilizando tecnologias modernas do ecossistema frontend e backend.
+  </i>
 </p>
-
-## 🛠️ Tecnologias
-
- - JavaScript, Java, PHP, C#, Kotlin
- - React, Vue, Angular, Svelte
- - Node.js, Spring Boot
- - HTML, CSS, TailwindCSS
-
-📌 Atualmente
-Focado em projetos com React e APIs backend
-Estudando arquitetura de software e boas práticas
 
 ---
 ## 🤖 Linguagens e Tecnologias
@@ -123,6 +114,12 @@ Estudando arquitetura de software e boas práticas
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
     />
 </div>
+
+### 📌 Atualmente
+<p>
+  Focado em projetos com React e APIs backend
+  Estudando arquitetura de software e boas práticas
+</p>
 
 ---
 
